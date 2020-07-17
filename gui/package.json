@@ -1,0 +1,12 @@
+{
+  "name": "IconSur",
+  "main": "index.html",
+  "window": {
+    "title": "IconSur",
+    "width": 320,
+    "height": 640,
+    "icon": "assets/icon.png",
+    "resizable": false,
+    "frame": false
+  }
+}
