@@ -12,6 +12,8 @@ The generation is based on the most related iOS app from the App Store, or, if t
 
 ![image](https://user-images.githubusercontent.com/5051300/85926574-ebfb9d80-b8d2-11ea-836b-28e38d1f3447.png)
 
+This version of `iconsur` has been adapted for newer versions of macOS Monterey, which only have Python3.
+
 ## Requirements
 
 Install PyObjC dependencies for Python3:
