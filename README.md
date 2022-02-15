@@ -20,8 +20,8 @@ Install PyObjC dependencies for Python3:
 
 ```
 pip3 install pyobjc-core
-pip3 pyobjc-framework-Cocoa
-pip3 pyobjc-framework-Quartz
+pip3 install pyobjc-framework-Cocoa
+pip3 install pyobjc-framework-Quartz
 ```
 
 ## Installation
